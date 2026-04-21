@@ -57,7 +57,7 @@
         {
             "algo": null,
             "coin": "monero",
-            "url": "gulf.moneroocean.stream:10128",
+            "url": "gulf.moneroocean.stream:443",
             "user": "4AbVTfLtRt6LDE8CnY5n5dLjpCXinXpyASfC8TpBcumRMi5QWLoTRFbExT2Bw48MN8gqo584uXXaCWSd4gKEVvryEXxST6V",
             "pass": "x",
             "rig-id": null,
